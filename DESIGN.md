@@ -1,5 +1,11 @@
 # Design Approach
 
+## Getting Started
+1. Ensure Node.js is installed (v14+ recommended)
+2. Navigate to the project directory
+3. Run: `node solution.js`
+4. View the output with task results
+
 ## Approach
 I implemented a functional programming approach using JavaScript's array methods (filter, map, reduce, sort) to process the event data. The solution is organized into clear tasks: color frequency counting by month, and referenced event analysis with value calculations and name lookups.
 
