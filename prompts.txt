@@ -1,0 +1,5 @@
+how to import json file in your js file?
+how to filter an array to only include items where date starts with a given year and zero padded month in js?
+how can i create a json object inside the map function. i want to use data from two different json files.
+how to sort dates in js?
+this is the current DESIGN.md i have written help me make it better. 
